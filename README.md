@@ -1,4 +1,5 @@
-# MODUL01 -
+# MODUL01 - Template to create a new MLAB module
+
 MLAB's module template repository. Please [use the "Use this template" button](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template) to create a new MLAB module from this repository.
 
 The new module repository name must be identical to proposed new module name. Please look in [MLAB design rules](https://wiki.mlab.cz/doku.php?id=en:rules#identification_of_modules) for acceptable naming convention.

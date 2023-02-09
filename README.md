@@ -9,15 +9,15 @@ Then [clone the new MLAB's module repository](https://docs.github.com/en/reposit
 
 ## 1. Initialize the assets submodule, update it to latest version
 ```bash
-  git submodule update --init --remote
+git submodule update --init --remote
 ```
 
 ## 2. Copy the fresh automation workflows
     
 The following command copy up-to-date KiCAD automation workflow to the new MLAB module repository.
 ```bash
-  cd doc/assets/workflows/
-  ./copy_workflow_to_repo.sh
+cd doc/assets/workflows/
+./copy_workflow_to_repo.sh
 ```
 ## 3. Start the design work 
 

@@ -8,17 +8,18 @@ After creating of the new repository, [rename](https://docs.github.com/en/reposi
 Then [clone the new MLAB's module repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your workstation. After that perform following steps in the cloned repository. 
 
 ## 1. Initialize the assets submodule
-
+```bash
   git submodule init 
   git submodule update
-  
+```
+
 ## 2. Copy the fresh automation workflows
     
 The following command copy up-to-date KiCAD automation workflow to the new MLAB module repository.
-
+```bash
   cd doc/assets/workflows/
   ./copy_workflow_to_repo.sh
-
+```
 ## 3. Start the design work 
 
 In that point you should start to design the new MLAB module project by using the [design tools](https://wiki.mlab.cz/doku.php?id=en:tools).

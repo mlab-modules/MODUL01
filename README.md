@@ -7,10 +7,9 @@ After creating of the new repository, [rename](https://docs.github.com/en/reposi
 
 Then [clone the new MLAB's module repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your workstation. After that perform following steps in the cloned repository. 
 
-## 1. Initialize the assets submodule
+## 1. Initialize the assets submodule, update it to latest version
 ```bash
-  git submodule init 
-  git submodule update
+  git submodule update --init --remote
 ```
 
 ## 2. Copy the fresh automation workflows

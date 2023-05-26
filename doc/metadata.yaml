@@ -1,9 +1,12 @@
 description: Template repository
 github_branch: MODUL01A
+github_branches:
+- MODUL01A
 github_repo: MODUL01
 github_url: https://github.com/mlab-modules/MODUL01
 homepage: false
 images: []
+issues: 2
 mark: 50
 tags: []
 title: MODUL01

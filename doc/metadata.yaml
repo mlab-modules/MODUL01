@@ -8,5 +8,7 @@ homepage: false
 images: []
 issues: 2
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: MODUL01

@@ -1,5 +1,5 @@
 [submodule "doc/assets"]
 	path = doc/assets
 	url = git@github.com:MLAB-project/documents.git
-	branch = KiCADv6
+	branch = KiCADv8
         shallow = 1
